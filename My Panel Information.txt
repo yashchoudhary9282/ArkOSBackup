@@ -1,1 +1,5 @@
-My Panel: 5
+My Panel: 5 
+
+My Panel is Default panel in this folder. Please change the panel if your console support another Panel by opening "DTB Change Tool.exe" 
+
+THANK YOU
